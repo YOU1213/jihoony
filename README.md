@@ -1,1 +1,2 @@
-# jihoony
+Hi there
+im ji hoon
